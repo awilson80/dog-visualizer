@@ -38,3 +38,8 @@ button:hover {
     color: black;
     border: 2px solid #f4c3c2;
 }
+
+img {
+    height: 500px;
+    width: 500px;
+}
